@@ -269,7 +269,7 @@ public class eduroamCAT extends FragmentActivity implements ActionBar.TabListene
 		//Add menu opetion in rop right of app
 		 MenuInflater inflater = getMenuInflater();
 		    //inflater.inflate(R.menu.settings, menu);
-		    inflater.inflate(R.menu.advanced, menu);
+		    //inflater.inflate(R.menu.advanced, menu);
 		    inflater.inflate(R.menu.support, menu);
 		    inflater.inflate(R.menu.about, menu);
 		    inflater.inflate(R.menu.version, menu);
